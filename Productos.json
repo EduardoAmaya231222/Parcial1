@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6420be33b019d672c8d34e40"
+  },
+  "Nombre": "Café",
+  "Marca": "Coscafé",
+  "Cantidad": "300",
+  "Categoria": "Bebidas",
+  "Precio": 0.1
+},{
+  "_id": {
+    "$oid": "6420be96b019d672c8d34e41"
+  },
+  "Nombre": "Frijoles",
+  "Marca": "San Pedro",
+  "Cantidad": "300",
+  "Categoria": "Granos básicos",
+  "Precio": 5.7
+},{
+  "_id": {
+    "$oid": "6420bebeb019d672c8d34e42"
+  },
+  "Nombre": "Optimus Prime Toy",
+  "Marca": "Hasbro",
+  "Cantidad": "35",
+  "Categoria": "Juguetes",
+  "Precio": "49.95"
+}]
